@@ -12,6 +12,7 @@
 - ReactJS
 - React Context API
 - Firebase
+- Material UI
 
 ## Getting Started
 
