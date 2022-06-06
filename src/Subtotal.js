@@ -32,7 +32,7 @@ function Subtotal() {
         prefix={"$"}
       />
 
-      <button onClick={e => navigate('/payment')}>Proceed to Checkout</button>
+      <button onClick={() => navigate('/payment')}>Proceed to Checkout</button>
 
     </div>
   )
