@@ -20,7 +20,7 @@
 
 ### Prerequisites
 
-- For this project, you don't need additional tools.
+- You must have Git and npm installed in your machine.
 
 ### Setup
 
